@@ -19,7 +19,11 @@
 
 ### :man_technologist: About Me :
 
-I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a beginner backend developer in Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+Education 🎓
+
+I am a 2nd year student of Applied Mathematics and Computer Science at MIREA.
 
 ---
 
