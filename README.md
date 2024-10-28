@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
-I am a beginner backend developer in Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a beginner backend developer in Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow, Russia.
 
 ### 🎓 Education :
 
@@ -36,13 +36,13 @@ I am a 2nd year student of Applied Mathematics and Computer Science at MIREA.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGiPiG)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BiGiPiG&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGiPiG)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
