@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lncmI3ejE1d2EydWU4N2w0a3JwNTBjaHQ0dGg5MWR0bW1ybWxtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hRhZ1dzw8gDNCcr36c/giphy.gif" width="500" height="500"/>
-</div>
-
 <h1 align="center">Hi there, I'm BiGiPiG</a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
@@ -44,7 +40,6 @@ I am a 2nd year student of Applied Mathematics and Computer Science at MIREA.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BiGiPiG&theme=dark)](https://git.io/streak-stats)
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
