@@ -34,12 +34,6 @@ I am a 2nd year student of Applied Mathematics and Computer Science at MIREA.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGiPiG)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BiGiPiG&theme=dark)](https://git.io/streak-stats)
-
 
 
 
