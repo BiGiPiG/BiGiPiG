@@ -41,25 +41,5 @@ I am a student of Applied Mathematics and Computer Science at MIREA.
 
 ----
 
-<!--
-![Spring REST](https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
-![Liquibase](https://img.shields.io/badge/Liquibase-39C2B2?style=for-the-badge&logo=liquibase&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23C62938.svg?style=for-the-badge&logo=Swagger&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGiPiG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
----<img align="right" src="(https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Delphington)">
-
-
-
 
 
