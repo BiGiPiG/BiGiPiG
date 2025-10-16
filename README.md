@@ -38,6 +38,7 @@ I am a student of Applied Mathematics and Computer Science at MIREA.
 <img src="https://github.com/user-attachments/assets/98405c90-e64a-427a-b858-594e7de62258" width="50" height="50" alt="Mocito">
 <img src="https://github.com/user-attachments/assets/00252f97-9ed5-4f15-b7c2-34ce4bcedecd" width="50" height="50" alt="TestContainer">
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGiPiG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ----
 
