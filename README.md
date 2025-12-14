@@ -45,13 +45,6 @@ I am a student of Applied Mathematics and Computer Science at MIREA.
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,hibernate,postman,gitlab,maven,gradle)](https://skillicons.dev)
-<img src="https://github.com/user-attachments/assets/5578a975-30a2-4c03-982c-4b405cb4097b" width="50" height="50" alt="Swagger">
-
-### Testing
-
-<img src="https://github.com/user-attachments/assets/54b87a81-e176-4b65-adc4-034a1a881ad6" width="50" height="50" alt="Junit">
-<img src="https://github.com/user-attachments/assets/98405c90-e64a-427a-b858-594e7de62258" width="50" height="50" alt="Mocito">
-<img src="https://github.com/user-attachments/assets/00252f97-9ed5-4f15-b7c2-34ce4bcedecd" width="50" height="50" alt="TestContainer">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiGiPiG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
