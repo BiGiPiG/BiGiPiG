@@ -41,7 +41,7 @@ I am a student of Applied Mathematics and Computer Science at MIREA.
 
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,hibernate,postman,gitlab,maven,gradle)](https://skillicons.dev)
