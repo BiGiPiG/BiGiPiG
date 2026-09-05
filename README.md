@@ -18,18 +18,6 @@ Backend developer from Moscow
 
 ---
 
-### 🚀 Featured projects
-
-| Project | Stack | What it is |
-|---|---|---|
-| **[BP-MIN](https://github.com/BiGiPiG/BP-MIN)** | Java 21 · Spring Boot · Spring Cloud · Kafka + Avro · PostgreSQL · Redis · Vue 3 | Microservice messenger: API gateway, auth, user and chat services. Real-time delivery over WebSocket/STOMP, event-driven communication through Kafka, JWT auth, full Docker Compose setup |
-| **[BP-Invest](https://github.com/BiGiPiG/BP-Invest)** | Java · Spring Boot · Spring Security · REST | Analytics platform for investors: OAuth 2.0 login, market data pulled from the Alpha Vantage API, AI-assisted forecasts on top of it |
-| **[oauth2-example](https://github.com/BiGiPiG/oauth2-example)** | Spring Security · OAuth 2.0 · Vue 3 | Minimal end-to-end OAuth 2.0 flow between a Spring resource server and a Vue SPA — the reference I keep coming back to |
-| **[MiniJava-Interpreter](https://github.com/BiGiPiG/MiniJava-Interpreter)** | Python | Translator for a subset of Java: lexer, LL(1) parser, semantic analysis, code generation |
-| **[Mandelbrot-Set-Explorer](https://github.com/BiGiPiG/Mandelbrot-Set-Explorer)** | Java · concurrency | Interactive fractal renderer — an excuse to get multithreading and work partitioning right |
-
----
-
 ### 🛠 Tech stack
 
 **Languages**
@@ -49,6 +37,19 @@ Backend developer from Moscow
 [![](https://skillicons.dev/icons?i=docker,kubernetes,git,gitlab,postman,idea)](https://skillicons.dev)
 
 ---
+
+### 🚀 Featured projects
+
+| Project | Stack | What it is |
+|---|---|---|
+| **[BP-MIN](https://github.com/BiGiPiG/BP-MIN)** | Java 21 · Spring Boot · Spring Cloud · Kafka + Avro · PostgreSQL · Redis · Vue 3 | Microservice messenger: API gateway, auth, user and chat services. Real-time delivery over WebSocket/STOMP, event-driven communication through Kafka, JWT auth, full Docker Compose setup |
+| **[BP-Invest](https://github.com/BiGiPiG/BP-Invest)** | Java · Spring Boot · Spring Security · REST | Analytics platform for investors: OAuth 2.0 login, market data pulled from the Alpha Vantage API, AI-assisted forecasts on top of it |
+| **[oauth2-example](https://github.com/BiGiPiG/oauth2-example)** | Spring Security · OAuth 2.0 · Vue 3 | Minimal end-to-end OAuth 2.0 flow between a Spring resource server and a Vue SPA — the reference I keep coming back to |
+| **[MiniJava-Interpreter](https://github.com/BiGiPiG/MiniJava-Interpreter)** | Python | Translator for a subset of Java: lexer, LL(1) parser, semantic analysis, code generation |
+| **[Mandelbrot-Set-Explorer](https://github.com/BiGiPiG/Mandelbrot-Set-Explorer)** | Java · concurrency | Interactive fractal renderer — an excuse to get multithreading and work partitioning right |
+
+---
+
 <!--
 ### 📊 GitHub
 
